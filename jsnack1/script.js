@@ -19,7 +19,7 @@ for (let i=0; i<listaInvitati.length; i++){
   }
 }
 
-
+//comunicazione esito
 if (esitoControllo){
  console.log("Prego, si goda la festa!");
 }else{
